@@ -7,10 +7,10 @@
 * 원활한 커뮤니케이션을 통한 Agile 방식의 개발 진행을 추구합니다.
 
 
-
+　
 - Email I [cano721@naver.com](mailto:cano721@naver.com)
 - Blog I https://cano721.tistory.com
-
+　
 
 
 
