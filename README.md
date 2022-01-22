@@ -6,11 +6,13 @@
 * Clean Code와 리팩토링을 통한 코드 최적화를 노력하고 있습니다. 
 * 원활한 커뮤니케이션을 통한 Agile 방식의 개발 진행을 추구합니다.
 
-
+　
+ 
 
 - Email I [cano721@naver.com](mailto:cano721@naver.com)
 - Blog I https://cano721.tistory.com
-
+　
+ 
 
 
 Languages and Tools:
@@ -27,7 +29,8 @@ Languages and Tools:
 
 <img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white"><img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"><img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><img src="https://img.shields.io/badge/androidStudio-88CE02?style=for-the-badge&logo=androidStudio&logoColor=white">
 
-
+　
+ 
 
 ## Organizations
 
@@ -47,7 +50,8 @@ Languages and Tools:
   >
   >설명: 칵테일에 관련된 레시피 정보 및 주류 정보 제공
 
-
+　
+ 
 
 ### Repositories
 
