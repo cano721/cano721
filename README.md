@@ -30,7 +30,7 @@ Languages and Tools:
 
 ## Organizations
 
-* [Eyes-On](https://github.com/Eyes-On) : 시각장애인 독립적 버스 탑승보조를 위한 어플리케이션 및 스마트 글래스 개발
+* [Eyes-On](https://github.com/Eyes-On/Introduction) : 시각장애인 독립적 버스 탑승보조를 위한 어플리케이션 및 스마트 글래스 개발
 
   >Skill: MQTT, android Studio, raspberryPi, Jira, docker, aws, YOLO5, EasyOCR.. 등등
   >
